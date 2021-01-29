@@ -9,3 +9,5 @@ git status
 get reset --hard HEAD^
 get reset --hard 版本号
 git reflog
+
+git tracks changes
